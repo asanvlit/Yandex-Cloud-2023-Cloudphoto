@@ -1,0 +1,6 @@
+/venv/
+/out/
+/.idea/
+/build
+/cloudphoto.egg-info
+/dist
