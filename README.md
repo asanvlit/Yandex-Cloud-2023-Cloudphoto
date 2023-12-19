@@ -15,13 +15,3 @@
 3. Выполнить
 
 `python setup.py install`
-
-## Функционал
-
-Демонстрация работы приложения
-
-![img.png](img.png)
-
-![img_1.png](img_1.png)
-
-![img_3.png](img_3.png)
